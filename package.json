@@ -1,0 +1,17 @@
+{
+  "name": "rei",
+  "version": "1.0.0",
+  "description": "Hello I'm Rei I Am A Bot Name Rei Of Course I Will Have Commands And Other Stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "r!"
+  },
+  "keywords": [
+    "r!"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
